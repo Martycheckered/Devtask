@@ -1,0 +1,73 @@
+2020-06-26 19:19:10 [main] TRACE com.Task.MFAbonentBase - createAbonentBase
+2020-06-26 19:19:10 [main] TRACE com.Task.MFAbonentBase - createAbonentList
+2020-06-26 19:19:19 [main] DEBUG com.Task.MFAbonentBase - 89997661617  -233.79
+2020-06-26 19:19:25 [main] DEBUG com.Task.MFAbonentBase - 89999377221  -390.83
+2020-06-26 19:21:47 [main] TRACE com.Task.MFAbonentBase - createAbonentBase
+2020-06-26 19:21:47 [main] TRACE com.Task.MFAbonentBase - createAbonentList
+2020-06-26 19:23:25 [main] DEBUG com.Task.MFAbonentBase - 89996013904  -235.04
+2020-06-26 19:26:59 [main] TRACE com.Task.MFAbonentBase - createAbonentBase
+2020-06-26 19:26:59 [main] TRACE com.Task.MFAbonentBase - createAbonentList
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89991536759  268.47
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89993990966  372.11
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89992331600  -197.14
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89993927351  976.45
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89998450320  572.98
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89995594946  217.30
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89994358542  820.27
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89994887682  332.91
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89995644860  -860.28
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89999206199  -85.97
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89998372359  699.51
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89998360598  -758.53
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89997686162  412.65
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89996366563  33.97
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89999364060  859.87
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89998681775  -59.75
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89998349800  594.97
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89992172682  -207.57
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89991692405  474.42
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89992376101  353.11
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89995729922  -366.92
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89993425815  -895.38
+2020-06-26 19:27:05 [main] DEBUG com.Task.MFAbonentBase - 89991802330  831.58
+2020-06-26 19:27:05 [main] TRACE com.Task.MFAbonentBase - createAbonentList complete
+2020-06-26 19:27:06 [main] TRACE com.Task.MFAbonentBase - Создание XML файла закончено
+2020-06-26 19:27:06 [main] TRACE com.Task.MFAbonentBase - createAbonentBase complete
+2020-06-26 19:27:06 [main] TRACE com.Task.MFAbonentBase - printFileOnScreen
+2020-06-26 19:27:06 [main] TRACE com.Task.MFAbonentBase - splitByBalance
+2020-06-26 19:27:06 [main] TRACE com.Task.MFAbonentBase - splitByBalance complete
+2020-06-26 19:27:06 [main] TRACE com.Task.MFAbonentBase - printFileOnScreen complete
+2020-06-26 19:47:01 [main] TRACE com.Task.MFAbonentBase - createAbonentBase
+2020-06-26 19:47:01 [main] TRACE com.Task.MFAbonentBase - createAbonentList
+2020-06-26 19:47:39 [main] ERROR com.Task.MFAbonentBase - For input string: "5555555555555555555555555555555555555555"
+java.lang.NumberFormatException: For input string: "5555555555555555555555555555555555555555"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.Task.MFAbonentBase.getInputSizeOfList(MFAbonentBase.java:187)
+	at com.Task.MFAbonentBase.createAbonentList(MFAbonentBase.java:161)
+	at com.Task.MFAbonentBase.createAbonentBase(MFAbonentBase.java:86)
+	at com.Task.MFAbonentBase.main(MFAbonentBase.java:63)
+2020-06-26 19:47:39 [main] TRACE com.Task.MFAbonentBase - printFileOnScreen
+2020-06-26 19:47:39 [main] ERROR com.Task.MFAbonentBase - C:\Users\Денис\Desktop\Загрузки\Изучение ИТ\hhjjkknh.xml (Не удается найти указанный файл)
+java.io.FileNotFoundException: C:\Users\Денис\Desktop\Загрузки\Изучение ИТ\hhjjkknh.xml (Не удается найти указанный файл)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:623)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:148)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:806)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+	at com.Task.MFAbonentBase.printFileOnScreen(MFAbonentBase.java:262)
+	at com.Task.MFAbonentBase.main(MFAbonentBase.java:64)
+2020-06-26 19:50:48 [main] TRACE com.Task.MFAbonentBase - createAbonentBase
+2020-06-26 19:50:48 [main] TRACE com.Task.MFAbonentBase - createAbonentList
+2020-06-26 19:54:26 [main] TRACE com.Task.MFAbonentBase - createAbonentBase
+2020-06-26 19:54:26 [main] TRACE com.Task.MFAbonentBase - createAbonentList

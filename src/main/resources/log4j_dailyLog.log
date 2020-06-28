@@ -1,0 +1,11 @@
+2020-06-27 12:14:18 [main] TRACE com.Task.MFAbonentBase - isFileNameCorrect
+2020-06-27 12:14:18 [main] TRACE com.Task.MFAbonentBase - isFileNameCorrect complete
+2020-06-27 12:29:37 [main] TRACE com.Task.MFAbonentBase - isFileNameCorrect
+2020-06-27 12:29:37 [main] TRACE com.Task.MFAbonentBase - isFileNameCorrect complete
+2020-06-27 12:30:16 [main] TRACE com.Task.MFAbonentBase - createAbonentBase
+2020-06-27 12:30:16 [main] TRACE com.Task.MFAbonentBase - createAbonentList
+2020-06-27 22:56:50 [main] TRACE com.Task.MFAbonentBase - createAbonentList
+2020-06-27 22:56:50 [main] DEBUG com.Task.MFAbonentBase - 89991136875  -928.65
+2020-06-27 22:56:50 [main] DEBUG com.Task.MFAbonentBase - 89994849156  -931.49
+2020-06-27 22:56:50 [main] DEBUG com.Task.MFAbonentBase - 89994667599  -365.18
+2020-06-27 22:56:50 [main] TRACE com.Task.MFAbonentBase - createAbonentList complete

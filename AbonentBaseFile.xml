@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Abonents>
+<Abonent id="1">
+<number>89996184611</number>
+<balance>270.80</balance>
+</Abonent>
+<Abonent id="2">
+<number>89997446372</number>
+<balance>518.32</balance>
+</Abonent>
+<Abonent id="3">
+<number>89993200512</number>
+<balance>432.51</balance>
+</Abonent>
+<Abonent id="4">
+<number>89993835468</number>
+<balance>-369.02</balance>
+</Abonent>
+<Abonent id="5">
+<number>89999557537</number>
+<balance>-29.62</balance>
+</Abonent>
+<Abonent id="6">
+<number>89994383492</number>
+<balance>911.54</balance>
+</Abonent>
+<Abonent id="7">
+<number>89996517658</number>
+<balance>-788.90</balance>
+</Abonent>
+<Abonent id="8">
+<number>89999988252</number>
+<balance>-888.32</balance>
+</Abonent>
+<Abonent id="9">
+<number>89993994530</number>
+<balance>786.96</balance>
+</Abonent>
+<Abonent id="10">
+<number>89992400944</number>
+<balance>-738.55</balance>
+</Abonent>
+<Abonent id="11">
+<number>89997840644</number>
+<balance>-275.64</balance>
+</Abonent>
+<Abonent id="12">
+<number>89994482791</number>
+<balance>-638.68</balance>
+</Abonent>
+<Abonent id="13">
+<number>89991341306</number>
+<balance>-847.70</balance>
+</Abonent>
+<Abonent id="14">
+<number>89992112527</number>
+<balance>-367.43</balance>
+</Abonent>
+<Abonent id="15">
+<number>89999622035</number>
+<balance>-835.64</balance>
+</Abonent>
+<Abonent id="16">
+<number>89998623626</number>
+<balance>-945.58</balance>
+</Abonent>
+<Abonent id="17">
+<number>89992653491</number>
+<balance>-443.35</balance>
+</Abonent>
+<Abonent id="18">
+<number>89998018411</number>
+<balance>870.71</balance>
+</Abonent>
+<Abonent id="19">
+<number>89994546827</number>
+<balance>340.99</balance>
+</Abonent>
+<Abonent id="20">
+<number>89996105527</number>
+<balance>711.13</balance>
+</Abonent>
+<Abonent id="21">
+<number>89999872414</number>
+<balance>-792.18</balance>
+</Abonent>
+<Abonent id="22">
+<number>89995137985</number>
+<balance>55.64</balance>
+</Abonent>
+<Abonent id="23">
+<number>89995806171</number>
+<balance>451.00</balance>
+</Abonent>
+<Abonent id="24">
+<number>89998490847</number>
+<balance>-162.36</balance>
+</Abonent>
+<Abonent id="25">
+<number>89996010247</number>
+<balance>-766.09</balance>
+</Abonent>
+<Abonent id="26">
+<number>89995410826</number>
+<balance>191.37</balance>
+</Abonent>
+<Abonent id="27">
+<number>89993288648</number>
+<balance>579.28</balance>
+</Abonent>
+<Abonent id="28">
+<number>89991894459</number>
+<balance>569.15</balance>
+</Abonent>
+<Abonent id="29">
+<number>89998223376</number>
+<balance>-83.80</balance>
+</Abonent>
+<Abonent id="30">
+<number>89993307202</number>
+<balance>-244.43</balance>
+</Abonent>
+<Abonent id="31">
+<number>89995192983</number>
+<balance>-328.09</balance>
+</Abonent>
+<Abonent id="32">
+<number>89992442680</number>
+<balance>-330.66</balance>
+</Abonent>
+<Abonent id="33">
+<number>89993402947</number>
+<balance>-29.83</balance>
+</Abonent>
+<Abonent id="34">
+<number>89996339521</number>
+<balance>259.14</balance>
+</Abonent>
+<Abonent id="35">
+<number>89992816117</number>
+<balance>-747.91</balance>
+</Abonent>
+<Abonent id="36">
+<number>89999322590</number>
+<balance>-700.96</balance>
+</Abonent>
+<Abonent id="37">
+<number>89991161439</number>
+<balance>382.61</balance>
+</Abonent>
+<Abonent id="38">
+<number>89992416122</number>
+<balance>433.05</balance>
+</Abonent>
+<Abonent id="39">
+<number>89994520540</number>
+<balance>-373.00</balance>
+</Abonent>
+<Abonent id="40">
+<number>89996488150</number>
+<balance>-587.26</balance>
+</Abonent>
+<Abonent id="41">
+<number>89999344227</number>
+<balance>-193.92</balance>
+</Abonent>
+<Abonent id="42">
+<number>89997228816</number>
+<balance>186.69</balance>
+</Abonent>
+<Abonent id="43">
+<number>89998134790</number>
+<balance>850.09</balance>
+</Abonent>
+<Abonent id="44">
+<number>89994339521</number>
+<balance>-819.94</balance>
+</Abonent>
+<Abonent id="45">
+<number>89999445000</number>
+<balance>-972.50</balance>
+</Abonent>
+<Abonent id="46">
+<number>89994115590</number>
+<balance>-36.48</balance>
+</Abonent>
+<Abonent id="47">
+<number>89998291022</number>
+<balance>192.54</balance>
+</Abonent>
+<Abonent id="48">
+<number>89996941996</number>
+<balance>-688.75</balance>
+</Abonent>
+<Abonent id="49">
+<number>89992553958</number>
+<balance>511.41</balance>
+</Abonent>
+<Abonent id="50">
+<number>89995089874</number>
+<balance>-371.14</balance>
+</Abonent>
+</Abonents>

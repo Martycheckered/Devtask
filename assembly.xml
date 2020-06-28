@@ -1,0 +1,39 @@
+<assembly
+        xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2 http://maven.apache.org/xsd/assembly-1.1.2.xsd
+http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2 ">
+
+    <!-- id -->
+    <id>dist</id>
+    <baseDirectory>011_packaging</baseDirectory>
+
+    <formats>
+        <format>tar.gz</format>
+    </formats>
+
+    <fileSets>
+        <fileSet>
+            <!-- executable scripts -->
+            <outputDirectory>bin</outputDirectory>
+            <directory>${project.basedir}/standalone/bin</directory>
+            <fileMode>0744</fileMode>
+            <directoryMode>0755</directoryMode>
+        </fileSet>
+        <fileSet>
+            <!-- instructions -->
+            <outputDirectory>/</outputDirectory>
+            <directory>${project.basedir}/standalone</directory>
+            <includes>
+                <include>readme.txt</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+
+    <dependencySets>
+        <dependencySet>
+            <!-- jars -->
+            <outputDirectory>lib</outputDirectory>
+        </dependencySet>
+    </dependencySets>
+</assembly>
